@@ -1,0 +1,6 @@
+{
+  "name": "Arcade Game Center",
+  "description": "An interactive retro Game Center featuring fully playable classic arcade games: Space Defender, Brick Breaker, Retro Snake, and Memory Match, complete with leaderboards, profile cards, and audio-visual feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
